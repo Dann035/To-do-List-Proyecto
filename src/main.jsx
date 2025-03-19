@@ -6,6 +6,6 @@ import Appcopy from '../appcopy.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <App/>
+    <Appcopy/>
   </StrictMode>,
 )
